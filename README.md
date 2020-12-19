@@ -1,4 +1,4 @@
-# THEME:AGRICULTURE-- FALL_FEST 2020
+# THEME: AGRICULTURE-- FALL_FEST 2020
 **Weed identification and classification**
 
 ## Overview:
@@ -16,6 +16,11 @@ pictures of the plant. Ready to use, the whole system will be integrated into a 
 app.<br>
 By simply pointing your phone at the plant and a few snaps, the app will tell you whether the
 pointed plant is a weed or not along with full description of the plant to help farmers deal
-with it.
+with it.<br>
 Apk Link : https://drive.google.com/file/d/1nD9PSW64tflKK9aYXoBrU04tq6PDPM-t/view?usp=sharing
+
+## Repo description:
+- **pytorchAndroid** contains source code for the app.
+- **Notebooks** contains some of the kernel files we used to train different models. 
+
 
