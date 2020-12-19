@@ -11,7 +11,7 @@ injury, poisoning, unwanted growth etc. These problems can be dealt with if farm
 provided with relevant information on the query plant.
 
 
-Solution to the problem, our project is aimed to create a Convolutional Neural Network
+Our project is aimed to create a Convolutional Neural Network
 based deep-learning model to identify weed plants instantly by just using one or two
 pictures of the plant. Ready to use, the whole system will be integrated into a simple-to-use
 app.
