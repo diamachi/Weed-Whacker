@@ -1,7 +1,7 @@
-# THEME: AGRICULTURE-- FALL_FEST 2020
+# THEME: AGRICULTURE-- FALL_FEST Hackathon 2020
 **Weed identification and classification**
 
-## Overview:
+## Problem Overview:
 Robotic weed control has seen increased research of late with its potential for boosting
 productivity in agriculture. Majority of works focus on developing robotics for croplands,
 ignoring the weed management problems facing rangeland stock farmers.<br>
