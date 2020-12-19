@@ -16,8 +16,10 @@ pictures of the plant. Ready to use, the whole system will be integrated into a 
 app.<br>
 By simply pointing your phone at the plant and a few snaps, the app will tell you whether the
 pointed plant is a weed or not along with full description of the plant to help farmers deal
-with it.<br>
+with it.<br><br>
 Apk Link : https://drive.google.com/file/d/1nD9PSW64tflKK9aYXoBrU04tq6PDPM-t/view?usp=sharing
+<br>
+Here's a demo video: https://drive.google.com/file/d/1fGhh9ljr5I642INx4QdCnx3YlZxwnQlO/view?usp=drivesdk
 
 ## Dataset:
 We used **DeepWeeds** dataset which can also be found in TensorFlow official datasets.<br>
