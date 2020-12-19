@@ -1,4 +1,4 @@
-AGRICULTURE (Weed Identification & Classification)-- FALL_FEST
+AGRICULTURE (Weed Identification & Classification)-- FALL_FEST 2020
 
 
 Robotic weed control has seen increased research of late with its potential for boosting
@@ -21,4 +21,6 @@ By simply pointing your phone at the plant and a few snaps, the app will tell yo
 pointed plant is a weed or not along with full description of the plant to help farmers deal
 with it.
 
+
+Apk Link : https://drive.google.com/file/d/1nD9PSW64tflKK9aYXoBrU04tq6PDPM-t/view?usp=sharing
 
