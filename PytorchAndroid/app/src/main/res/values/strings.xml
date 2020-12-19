@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Main</string>
+    <string name="title_activity_main">Weed Whacker</string>
+    <string name="title_activity_result">Result</string>
+</resources>
