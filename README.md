@@ -19,8 +19,15 @@ pointed plant is a weed or not along with full description of the plant to help 
 with it.<br>
 Apk Link : https://drive.google.com/file/d/1nD9PSW64tflKK9aYXoBrU04tq6PDPM-t/view?usp=sharing
 
+## Dataset:
+We used **DeepWeeds** dataset which can also be found in TensorFlow official datasets.<br>
+Below are the drive links for direct access:
+- [images.zip](https://drive.google.com/file/d/1xnK3B6K6KekDI55vwJ0vnc2IGoDga9cj/view?usp=sharing)(468 mb)
+- [labels.csv](https://drive.google.com/file/d/1z4GmMJQrBwV_xKqsm0OihhSyil0hBvck/view?usp=sharing)
+
 ## Repo description:
 - **pytorchAndroid** contains source code for the app.
 - **Notebooks** contains some of the kernel files we used to train different models. 
+- **Trained_weights** contains weight files for the respective models.
 
 
