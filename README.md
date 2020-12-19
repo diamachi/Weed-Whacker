@@ -21,6 +21,11 @@ Apk Link : https://drive.google.com/file/d/1nD9PSW64tflKK9aYXoBrU04tq6PDPM-t/vie
 <br>
 Here's a demo video: https://drive.google.com/file/d/1fGhh9ljr5I642INx4QdCnx3YlZxwnQlO/view?usp=drivesdk
 
+## Performance:
+Our top model reached **0.978 Accuracy score** with efficientnetB2 as backbone and Ranger optimiser trained on 448x448 image size.<br><br>
+*But because we wanted to reduce the application size to minimum and model to be more mobile-efficient, we changed the architecture to **Mobilenet_V2**.*<br><br>
+With Mobilenet_V2 as backbone we reached **0.967 Accuracy Score** trained on 512x512 image size with Ranger optimiser.
+
 ## Dataset:
 We used **DeepWeeds** dataset which can also be found in TensorFlow official datasets.<br>
 Below are the drive links for direct access:
